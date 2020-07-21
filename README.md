@@ -4,7 +4,7 @@
 ## Dataset
  This project is a data analysis on TMDB-movies datasets. By analyzing the datasets, I will have an idea of which genres are performing well or not. In order for me to do this analysis, I have to do the followings,
 - Preliminary Wrangling
- - Data imported from themoviedb.org
+  - Data imported from themoviedb.org
 - Data Wrangling
   - Data Cleaning, Fixing the null values
 - Data Visualization
