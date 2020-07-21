@@ -1,7 +1,7 @@
 # Data Analysis on TMDB-Movies
 ## by Shakhawat Hassan
 
-## Summary of Findings
+## Dataset
 > This project is a data analysis on TMDB-movies datasets. By analyzing the datasets, I will have an idea of which genres are performing well or not. In order for me to do this analysis, I have to do the followings,
 pull up the datasets (tmdb-movies.csv)
 data cleaning, data cleansing, data wrangling, fixing the null values, and etc. 
