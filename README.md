@@ -9,7 +9,9 @@
 - Data Wrangling
   - Data Cleaning, Fixing the null values
 - Data Visualization
-  - Statistical Models/resuls
+  - Statistical Models/resuls, Exploratory Data Analysis
+- Summary
+  - Conclusion, Limitation
 
 I will try to answer these questions based on the datasets. 
 Which movies earned the most? Which genres are more popular than other genres? Which properties generated the most revenues? Which genres are performing well over the years? Which are the 10 highest-grossing movies of all time?
